@@ -11,6 +11,7 @@ The system fetches videos from YouTube, extracts audio, trims clips to a specifi
 
 
 ## Project Structure
+```bash
 Song-Mashup-Maker/
 │
 ├── part1-cli/
@@ -32,7 +33,7 @@ Song-Mashup-Maker/
 - Compress mashup into a ZIP file (Web Version)  
 - Send mashup via email (Web Version)  
 - Automatically remove temporary files after completion  
-
+```
 
 # Part 1 – Command Line Interface (CLI)
 
